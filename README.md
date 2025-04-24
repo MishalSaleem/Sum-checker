@@ -52,3 +52,6 @@ Enter first number: ?
 Enter second number: ?
 4
 Sum is less than 10
+
+![image](https://github.com/user-attachments/assets/fb16811f-8096-48b8-bdae-e851743c3590)
+
