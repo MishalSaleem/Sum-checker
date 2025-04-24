@@ -40,3 +40,15 @@ You can run this program using **EMU8086**.
 1. Paste the code into EMU8086
 2. Click **Compile and Run**
 
+## Sample Output
+Enter first number: ?
+8
+Enter second number: ?
+3
+Sum invalid because greater than 10. Try Again!
+
+Enter first number: ?
+5
+Enter second number: ?
+4
+Sum is less than 10
